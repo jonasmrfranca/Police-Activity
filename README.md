@@ -4,4 +4,4 @@ Exploring the Stanford Open Policing Project dataset and analyze the impact of g
 Dataset from: https://openpolicing.stanford.edu/data/
 Analysis based on DataCamp course
 City Analyzed: New Orleans - United States
-P.S.: Unpacked the Dataset before using
+P.S.: Unpack the Dataset before using
